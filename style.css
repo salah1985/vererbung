@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -8,4 +9,5 @@ div{
     margin: 0 auto;
     text-align: left;
     color: red;
+    font-family: 'Mansalva', cursive;
 }
